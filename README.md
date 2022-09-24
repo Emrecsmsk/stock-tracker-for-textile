@@ -1,25 +1,7 @@
-# tekstilstok
+# Stock Tracker For Textile 
 
-A new Flutter project.
+It is my first project. You can track the stock status. Local storage is used and never deleted until you delete.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# stok-takip
-# stok-takip
-# stok-takip
-# StokTakip
-# stok-takip
-# stok-takip
-# stock-tracker-for-textile
-# stock-tracker-for-textile
-# stock-tracker-for-textile
+![](https://github.com/Emrecsmsk/stock-tracker-for-textile/blob/main/assets/github/1.png?raw=true)
+![](https://github.com/Emrecsmsk/stock-tracker-for-textile/blob/main/assets/github/2.png?raw=true)
+!(https://github.com/Emrecsmsk/stock-tracker-for-textile/blob/main/assets/github/3.png?raw=true)
