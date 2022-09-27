@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
-options: "4658ec15b4bc7f76479887caaa132fc20e1484a53ce2e8b81349a82a20a8e4c5"
-build_start_time: [1664044541, 187579154]
-build_end_time: [1664044541, 243656158]
-inputs:
-  "/Users/emrecan/tekstilstok/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1664044531, 141677379]
-  "/Users/emrecan/tekstilstok/macos/Runner/AppDelegate.swift": !private [1657708732, 0]
-  "/Users/emrecan/tekstilstok/macos/Runner/MainFlutterWindow.swift": !private [1657708732, 0]
