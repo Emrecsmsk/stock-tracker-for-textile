@@ -21,8 +21,8 @@ class _IncomeViewState extends State<IncomeView> {
   late CacheDress _cacheController;
 
   final String totalMoneyEarned = 'Toplam kazanılan para';
-  final String totalMoneyReceived = 'Toplam kazanılan para';
-  final String totalRemainingMoney = 'Toplam alınan para';
+  final String totalMoneyReceived = 'Toplam alınan para';
+  final String totalRemainingMoney = 'Toplam kalan para';
   @override
   Widget build(BuildContext context) {
     return Obx(() => Padding(
